@@ -11,7 +11,7 @@ Capitalizing on the design and functionality of their two major components, the 
 
 ## First Stage: The Pioneer of the Regulator
 
-Attach an image here demonstrating a scuba regulator assembly, clearly highlighting the first stage connected to the scuba tank, showing the high-pressure gas's passage until it reaches intermediate pressure.
+![](/assets/uploads/1stage.jpg)
 
 The first stage of the regulator is directly connected to the scuba tank. It is tasked with taking the high-pressure gas and reducing it to a more manageable, intermediate pressure. Given the critical role of the first stage, variations in its design dramatically influence the user experience and performance of the regulator.
 
