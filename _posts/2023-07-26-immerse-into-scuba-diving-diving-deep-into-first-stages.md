@@ -17,7 +17,7 @@ The first stage of the regulator is directly connected to the scuba tank. It is 
 
 ## Piston-Type First Stage: Robustness in Simplicity
 
-Suggest an image here: A simple diagram of the Piston-type system, showing the high-pressure chamber, a movable piston, and the valve which adjusts to the pressure changes from the cylinder.
+![Balanced Piston 1st Stage](https://images.squarespace-cdn.com/content/v1/54ac182fe4b041b86b0920ad/1544189441111-EAQ64QKMF8Y38PHCWX7Q/piston.jpg?format=2500w "Balanced Piston 1st Stage")
 
 Piston-type first stages underline simplicity in design and operation. The primary components include a high-pressure chamber, a movable piston, and a valve that responds to the pressure changes from the cylinder, notching up or lowering the gas flow to the second stage accordingly.
 
@@ -25,7 +25,7 @@ A crucial part of this system is the spring, which ensures a sustained, intermed
 
 ## Diaphragm-Type First Stage: Enhanced Adaptability
 
-Present an image here: A detailed diagram of the Diaphragm system showcasing the high-pressure gas affecting the diaphragm, the spring compression, and the intermediary gas flow towards the second stage.
+![Balanced Diaphragm 1st Stage](https://images.squarespace-cdn.com/content/v1/54ac182fe4b041b86b0920ad/1544189315105-NU6DI4KPK3V8VI4U9BKH/diaphragm.jpg?format=2500w "Balanced Diaphragm 1st Stage")
 
 In contrast, the Diaphragm-type first stages are more convoluted. They introduce a diaphragm and environmental sealing to the regulator design. The high-pressure gas influences the diaphragm's movement affecting a spring which, in turn, opens the valve to the second stage.
 
